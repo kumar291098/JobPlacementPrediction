@@ -1,0 +1,4 @@
+streamlit
+numpy
+Pillow
+scikit-learn  # If you're using scikit-learn for training your model
